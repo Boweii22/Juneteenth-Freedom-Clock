@@ -1,4 +1,6 @@
 # Juneteenth Freedom Clock
+![674shots_so](https://github.com/user-attachments/assets/9be0a1a7-2507-412a-918c-e90d4d816ce5)
+
 
 ## Project Description
 
